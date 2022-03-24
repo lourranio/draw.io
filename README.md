@@ -8,8 +8,10 @@
 
 ## DEVOPS
 
-- OCI / ORACLE #../ 
- 
+- OCI / ORACLE
+    - [Arquivo](https://github.com/lourranio/draw.io/blob/2c6fad05adf4d90a91c648ea6797920f78f19c0d/Icons/OCI_Icons.drawio)  
+    - [Icones] (./draw.io/Icons/OCI)
+
 - <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fkubernetes.xml" target="_blank">Kubernetes Icons:</a> Icones Kubernetes
 
 
