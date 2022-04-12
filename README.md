@@ -92,4 +92,3 @@ Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fintegration%2Fusers-and-r
 Click on a link above to open a library or go to File, Open Library from URL in draw.io and enter an URL of the form https://jgraph.github.io/drawio-libs/libs/templates.xml
 
 
-https://temp-mail.org/pt/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiYjQ1YjhkNjk5YjUyNGM4MDg2OTRhMjgyNDNjMzQwY2IiLCJtYWlsYm94IjoicG94ZXlpNTQxMEBsZWFmemllLmNvbSIsImlhdCI6MTY0OTE3MDM0MX0.1h0-u7uvvvLj0XLHtKFM8RSzMz07-b30lYc_tewFNs8&utm_source=inboxbutton&utm_medium=extensions&utm_campaign=extensions
