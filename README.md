@@ -14,6 +14,7 @@
 
 - <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fkubernetes.xml" target="_blank">Kubernetes Icons:</a> Icones Kubernetes
 
+Link Completo da Oracle Icons : https://docs.oracle.com/en-us/iaas/Content/General/Reference/graphicsfordiagrams.htm
 
 ## General Libraries
 
