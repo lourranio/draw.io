@@ -7,6 +7,7 @@
 ![alt](./imagens/exemplo-1.png)
 
 ## DEVOPS
+=======================
 
 - OCI / ORACLE
     - [Arquivo](https://github.com/lourranio/draw.io/blob/2c6fad05adf4d90a91c648ea6797920f78f19c0d/Icons/OCI_Icons.drawio)  
