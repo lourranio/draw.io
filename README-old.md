@@ -6,13 +6,8 @@
 
 ![alt](./imagens/exemplo-1.png)
 
-<<<<<<< HEAD
 
 ## DEVOPS
-=======
-## DEVOPS --
-=======================
->>>>>>> 70b368de2deaebddd5dee5ab91e491cd876ec758
 
 - OCI / ORACLE
     - [Arquivo](https://github.com/lourranio/draw.io/blob/2c6fad05adf4d90a91c648ea6797920f78f19c0d/Icons/OCI_Icons.drawio)  
@@ -20,7 +15,6 @@
 
 - <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fkubernetes.xml" target="_blank">Kubernetes Icons:</a> Icones Kubernetes
 
-Link Completo da Oracle Icons : https://docs.oracle.com/en-us/iaas/Content/General/Reference/graphicsfordiagrams.htm
 
 ## General Libraries
 
@@ -97,5 +91,3 @@ Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fintegration%2Fusers-and-r
 * <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fkubernetes.xml" target="_blank">Kubernetes Icons:</a> A set of Kubernetes icons. Obsolete, as there is currently an integrated set in the app.
 
 Click on a link above to open a library or go to File, Open Library from URL in draw.io and enter an URL of the form https://jgraph.github.io/drawio-libs/libs/templates.xml
-
-
