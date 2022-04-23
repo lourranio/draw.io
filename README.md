@@ -6,7 +6,7 @@
 
 ![alt](./imagens/exemplo-1.png)
 
-## DEVOPS
+## DEVOPS --
 =======================
 
 - OCI / ORACLE
